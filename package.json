@@ -1,0 +1,22 @@
+{
+  "name": "webcafeteria",
+  "version": "1.0.0",
+  "description": "web para una cafeteria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzzzalo2090/Web-Cafeteria.git"
+  },
+  "author": "Gonzalo Nicolas Ojeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzzzalo2090/Web-Cafeteria/issues"
+  },
+  "homepage": "https://github.com/gonzzzalo2090/Web-Cafeteria#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
